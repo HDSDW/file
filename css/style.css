@@ -492,9 +492,6 @@ hr {
 
 .bg-image {
   background: url(../images/bg-1.jpg);
-  background-size: cover;
-  position: relative;
-  background-position: center center;
   padding: 320px 0px 250px 0px;
 }
 
